@@ -26,5 +26,5 @@
     
 
  - **Overall Challenges Faced:**
-     - This was my first time working with `PyToech` and `transformers` library
+     - This was my first time working with `PyTorch` and `transformers` library
      - More than Modelling, Extracting the neccessary data is more tough as mentioned above in **PDF Extractor**.
